@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TODO_8</string>
+    <string name="url1">http://developer.android.com</string>
+    <string name="url">Open Browser</string>
+    <string name="location">Location</string>
+    <string name="location1">Golden Bridge Gate</string>
+    <string name="Share">Share this text</string>
+    <string name="Share1">\'Twas brilling and slithy loves</string>
+</resources>
