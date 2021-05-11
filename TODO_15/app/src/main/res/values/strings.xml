@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TODO_15</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="a1">These are the top stories</string>
+    <string name="a2">These are the recent stories</string>
+    <string name="a3">These are the most liked stories</string>
+
+    <string name="a4">Top Stories</string>
+    <string name="a5">Recent Stories</string>
+    <string name="a6">Most Liked</string>
+</resources>
